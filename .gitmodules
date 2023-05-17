@@ -1,0 +1,3 @@
+[submodule "boo-android"]
+	path = boo-android
+	url = https://github.com/BOO1980/boo-android.git
